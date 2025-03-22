@@ -1,2 +1,2 @@
 # HTMLPaymentForm
-A payment form which basic information
+A payment form with basic information
